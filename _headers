@@ -123,18 +123,6 @@
   Link: </component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/react-native-good-practices-part-1/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/make-a-chatbot-that-speaks-like-you
-  Link: </webpack-runtime-ad493917c39482baffa5.js>; rel=preload; as=script
-  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
-  Link: </532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
-  Link: </app-9f5dba60b03f12000dda.js>; rel=preload; as=script
-  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
-  Link: </61a99217af7f1d1eebec238e78e684e1bdbe6200-2dda1dfeb9178608e6b0.js>; rel=preload; as=script
-  Link: </d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/make-a-chatbot-that-speaks-like-you/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/code-behind-magic-part-1
   Link: </webpack-runtime-ad493917c39482baffa5.js>; rel=preload; as=script
   Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
@@ -147,6 +135,18 @@
   Link: </component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/code-behind-magic-part-1/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/make-a-chatbot-that-speaks-like-you
+  Link: </webpack-runtime-ad493917c39482baffa5.js>; rel=preload; as=script
+  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </framework-88c48abae272a3bc68e7.js>; rel=preload; as=script
+  Link: </532a2f07-24b41809a8ea87955a35.js>; rel=preload; as=script
+  Link: </app-9f5dba60b03f12000dda.js>; rel=preload; as=script
+  Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
+  Link: </61a99217af7f1d1eebec238e78e684e1bdbe6200-2dda1dfeb9178608e6b0.js>; rel=preload; as=script
+  Link: </d4f3f45f3b97a996ebac05174393e9dafe15c3a1-8a34ce055d87b4379dfc.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-5155c837736dacdb3dbe.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/make-a-chatbot-that-speaks-like-you/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/javascript
   Link: </webpack-runtime-ad493917c39482baffa5.js>; rel=preload; as=script
   Link: </styles-083a06cb5740baaf347d.js>; rel=preload; as=script
