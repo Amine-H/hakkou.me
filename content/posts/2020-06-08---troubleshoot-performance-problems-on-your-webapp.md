@@ -16,7 +16,7 @@ You've come to the right place, let's get right to it then, no BS.
 
 # Measure
 
-before we do anything, let's set a baseline, this is critical because otherwise you will not now if your changes made it better, worse or if it had no measureable difference.
+before we do anything, let's set a baseline, this is critical because otherwise you will not know if your changes made it better, worse or if it had no measureable difference.
 
 ## Lighthouse
 
